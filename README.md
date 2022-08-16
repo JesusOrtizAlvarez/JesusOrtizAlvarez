@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 </p>  
 
 
-- 🌱 I’m currently learning TypeScript, Angular and more
+- 🌱 I’m currently learning React, TypeScript, Angular and more
 
 
 ## Used
